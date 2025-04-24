@@ -1,4 +1,4 @@
-#Desafío IA: Transformando un Proceso Tradicional por Steven Hidalgo Sanchez
+# Desafío IA: Transformando un Proceso Tradicional por Steven Hidalgo Sanchez
 
 
 Clan Hopper

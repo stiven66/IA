@@ -26,7 +26,7 @@ Quiero exponer el proceso tradicional que puede mejorarse mediante la incorporac
 **Tecnología empleada:**
 
 - Modelo de procesamiento de lenguaje natural (NLP).
-- 
+  
 **Integración en el flujo:**
   
 - Chatboot que interactua con el cliente y le da opciones para categorizar sus pertenencias a lavar en la lavanderia.

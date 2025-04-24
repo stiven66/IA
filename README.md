@@ -53,4 +53,4 @@ Quiero exponer el proceso tradicional que puede mejorarse mediante la incorporac
 
 ## 5. Reflexión Personal
 
-Con esto nos demuestra que trabajar del lado de la IA no solo equivale a respuestas rapidas y eficientes si no que tambien incrementa las ganancias a nivel empresarial dando un mejor estatus para recomendaciones futuras por parte del cliente basda en la experiencia.
+Con esto nos demuestra que trabajar del lado de la IA no solo equivale a respuestas rapidas y soluciones mas eficientes para el cliente si no que tambien tiene beneficios para la empresa al incrementa las ganancias a nivel economico dando un mejor estatus para recomendaciones futuras por parte del cliente basda en la experiencia de ellos mismos.

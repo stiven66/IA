@@ -14,9 +14,9 @@ Quiero exponer el proceso tradicional que puede mejorarse mediante la incorporac
 
 **Problemas o limitaciones del método tradicional:**  
 
--Demora de atencion por tener que atender solo a un cliente por llamada al telefono fijo.
--Demora en la demanda para la agenda de citas a los clientes haciendo la agendada mucho mas lenta por el limite de horario de trabajo ya que la empresa trabaja solo de 6 am a 6pm.  
--Perdidas de dinero por tener la limitacion de atender a un cliente por llamada.
+- Demora de atencion por tener que atender solo a un cliente por llamada al telefono fijo.
+- Demora en la demanda para la agenda de citas a los clientes haciendo la agendada mucho mas lenta por el limite de horario de trabajo ya que la empresa trabaja solo de 6 am a 6pm.  
+- Perdidas de dinero por tener la limitacion de atender a un cliente por llamada.
 
 ## 3. Propuesta de Solución con IA
 **Objetivo de la solución:**  

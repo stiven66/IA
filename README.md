@@ -13,7 +13,8 @@ Quiero exponer el proceso tradicional que puede mejorarse mediante la incorporac
 “Tengo un cliente que tiene una lavanderia y su proceso de dar informacion o de agendar un servicio a domicilio para recoger sus prendas o lo que vaya a lavar, es mediante linea telefonica sin redes sociales ni whatsap solo telefono fijo tradicional.
 
 **Problemas o limitaciones del método tradicional:**  
-- Demora de atencion por tener que atender solo a un cliente por llamada al telefono fijo.
+
+-Demora de atencion por tener que atender solo a un cliente por llamada al telefono fijo.
 -Demora en la demanda para la agenda de citas a los clientes haciendo la agendada mucho mas lenta por el limite de horario de trabajo ya que la empresa trabaja solo de 6 am a 6pm.  
 -Perdidas de dinero por tener la limitacion de atender a un cliente por llamada.
 

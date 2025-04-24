@@ -24,8 +24,11 @@ Quiero exponer el proceso tradicional que puede mejorarse mediante la incorporac
 
 **Descripción de la solución IA:**  
 **Tecnología empleada:**
-- Modelo de procesamiento de lenguaje natural (NLP).  
+
+- Modelo de procesamiento de lenguaje natural (NLP).
+- 
 **Integración en el flujo:**
+  
 - Chatboot que interactua con el cliente y le da opciones para categorizar sus pertenencias a lavar en la lavanderia.
 - Despues de categorizar y de elegir los servicios de lavanderia el chatboot recopila su informacion personal como nombre cantidad de prendas por categoria direccion.
 - La IA interpreta la informacion y genera una respuesta para ofrecerle los horarios disponibles para recoger y efectuar la limpieza de sus pertenencias en la lavanderia.
@@ -33,6 +36,7 @@ Quiero exponer el proceso tradicional que puede mejorarse mediante la incorporac
 - Intervencion humana para alguna queja o reclamo.
 
 **Beneficios esperados:**  
+
 - Mayor flujo de clientes y ganacias agendando las 24 horas gracias al chatboot.
 - El cliente tiene conocimiento en tiempo real de su servicio de lavanderia.  
 - Mejorar la experiencia de adquirir servicio al instante para el cliente.
